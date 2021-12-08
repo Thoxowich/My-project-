@@ -1,1 +1,1 @@
-# My-project- je zhluk jednoduchého kódu 
+Ukážka kódu, ak sa to dá takto nazvať 
